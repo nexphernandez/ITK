@@ -1,0 +1,51 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #a38cc2;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: #0011fd;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Subtítulo */
+h2 {
+    text-align: center;
+    color: #0011fd;
+    font-size: 1.8em;
+    margin-bottom: 1em;
+}
+
+/* Estilos para la lista */
+ul {
+    list-style-type: disc; /* Puedes cambiar a 'circle' o 'square' si deseas */
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Estilo para cada elemento de la lista */
+li {
+    background-color: #ffffff;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Opcional: estilos para el texto en negrita dentro de los li */
+li b {
+    color: #0099ff;
+}
+
+/* Opcional: eliminar los saltos de línea innecesarios con <br> en la lista */
+ul br {
+    display: none;
+}

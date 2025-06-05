@@ -30,6 +30,14 @@ th {
     text-align: center;
 }
 
+button{
+    display: block;
+    margin: 0 auto;
+    background-color: rgba(0, 255, 234, 0.993);
+    width: 100px; 
+    height: 40px
+}
+
 
 .fortalezas { background-color: #d4edda; } 
 .debilidades { background-color: #fff3cd; } 

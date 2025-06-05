@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #ff940980;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 15px;
+    border: 1px solid #ddd;
+    vertical-align: top;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+/* Colores para cada columna */
+.fortalezas { background-color: #d4edda; } /* verde suave */
+.debilidades { background-color: #fff3cd; } /* amarillo suave */
+.oportunidades { background-color: #d1ecf1; } /* azul suave */
+.amenazas { background-color: #f8d7da; } /* rojo suave */

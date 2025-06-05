@@ -30,8 +30,8 @@ th {
     text-align: center;
 }
 
-/* Colores para cada columna */
-.fortalezas { background-color: #d4edda; } /* verde suave */
-.debilidades { background-color: #fff3cd; } /* amarillo suave */
-.oportunidades { background-color: #d1ecf1; } /* azul suave */
-.amenazas { background-color: #f8d7da; } /* rojo suave */
+
+.fortalezas { background-color: #d4edda; } 
+.debilidades { background-color: #fff3cd; } 
+.oportunidades { background-color: #d1ecf1; } 
+.amenazas { background-color: #f8d7da; } 
